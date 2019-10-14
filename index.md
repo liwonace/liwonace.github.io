@@ -1,9 +1,9 @@
-# lhms [![Build Status](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=popout-square)](https://img.shields.io/badge/license-Apache%202.0-blue)
+## lhms 
 
-# 하드웨어 자원관리 소프트웨어 / Open Source Hardware Management System
+## 하드웨어 자원관리 소프트웨어 / Open Source Hardware Management System
 - 개방형OS 기반의 업무환경 개선을 위한 실시간 하드웨어 자원관리 소프트웨어 개발을 목표로 하며 다양한 배포판, 시스템들의 관리 및 운용 한계를 극복
 
-# 사용 소프트웨어 버전
+## 사용 소프트웨어 버전
 oss version
 - kafka_2.12-2.3.0
 - ansible 2.5.1
@@ -23,13 +23,13 @@ Development of real-time hardware resource management software to improve work e
 It is necessary to introduce Linux as an open OS and to guarantee the stability of existing hardware.
 The IT environment is becoming more complex due to the continuous development of technology, which reduces the work of system integrators, maximizes resource utilization and prevents failures due to automation, remote management through hardware monitoring, and can determine potential problems through analysis. Need management software.
 
-# User Group
+## User Group
 For Q/A and discussion [here](https://groups.google.com/d/forum/liwonace_lhms)
 
 # Contribute
 For Contribution [here](https://github.com/liwonace/lhms/blob/master/CONTRIBUTING.md).
 
-# License
+## License
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
